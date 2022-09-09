@@ -16,3 +16,8 @@ FER-2013 dataset consists of 35887 grayscale, 48x48 sized face images with seven
 * The region of image containing the face is resized to 48x48 and is passed as input to the CNN.
 * The network outputs a list of softmax scores for the seven classes of emotions.
 * The emotion with maximum score is displayed on the screen.
+
+
+## Additonal Info
+`Prep_Images.py` is used for generating images from csv file for simplicity and understandability.<br />
+`Webcam.py` contains code for real time emotion detection of single/multiple person(s) using webcam feed.
