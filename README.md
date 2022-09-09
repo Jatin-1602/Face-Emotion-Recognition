@@ -5,6 +5,8 @@
 The model is trained on the FER-2013 dataset which is available on Kaggle, and is used to classify the emotion on a person's face into one of seven categories, using deep convolutional neural networks.
 FER-2013 dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
 
+Dataset Link : https://www.kaggle.com/datasets/deadskull7/fer2013
+
 
 ## TechStack
 * Python 3
