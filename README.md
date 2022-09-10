@@ -22,4 +22,6 @@ Dataset Link : https://www.kaggle.com/datasets/deadskull7/fer2013
 
 ## Additonal Info
 `Prep_Images.py` is used for generating images from csv file for simplicity and understandability.<br />
-`Webcam.py` contains code for real time emotion detection of single/multiple person(s) using webcam feed.
+`Model.py` : Training of model has been done. <br />
+`Webcam.py` contains code for real time emotion detection of single/multiple person(s) using webcam feed. <br />
+`model.h5` : Trained Model with (Training Accuracy : 93% and Validation Accuracy : 61%)
